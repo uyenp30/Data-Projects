@@ -14,6 +14,7 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 
 ### SQL/ Excel Projects
 | 📝 Name | 💡 Description | 🛠️ Skills |
+|--------|----------------|-----------|
 | (Coming) | x | x |
 | (Coming) | x | x |
 
