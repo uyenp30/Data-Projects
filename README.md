@@ -7,7 +7,7 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 ### Python Projects
 | 📝 Name | 💡 Description | 🛠️ Skills |
 |--------|----------------|-----------|
-| (Coming) | x | x |
+| [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn) | Predicted customer churn using ML models and derived insights for business retention | `EDA`, `Logistic Regression`, `Random Forest`, `XGBoost`, `Feature Engineering`, `Model Evaluation` |
 | (Coming) | x | x |
 
 ---
