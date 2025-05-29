@@ -14,8 +14,8 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 
 ### SQL/ Excel Projects
 | 📝 Name | 💡 Description | 🛠️ Skills |
-|--------|----------------|-----------|
-| (Coming) | x | x |
+|:--------:|----------------|-----------|
+| [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) | An Excel dashboard exploring product performance, revenue trends, and customer favorites at a coffee shop chain | `Excel Dashboard`, `Pivot Table`, `Data Cleaning`, `Business Insight`, `Visualization`|
 | (Coming) | x | x |
 
 ---
