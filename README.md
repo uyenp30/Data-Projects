@@ -8,7 +8,7 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 | 📝 Name | 💡 Description | 🛠️ Skills |
 |:--------:|----------------|-----------|
 | [Customer Churn](https://github.com/uyenp30/Telco_Customer_Churn) | Predicted customer churn using ML models and derived insights for business retention | `EDA`, `Logistic Regression`, `Random Forest`, `XGBoost`, `Feature Engineering`, `Model Evaluation` |
-| (Coming) | x | x |
+| [Loan Default](https://github.com/uyenp30/Loan_Default) | Built a binary classification model to predict loan default risk, performed preprocessing, and evaluated key financial indicators | `Data Cleaning`, `EDA`, `Logistic Regression`, `Random Forest`, `XGBoost`, `Handling Missing Data`, `Model Evaluation` |
 
 ---
 
